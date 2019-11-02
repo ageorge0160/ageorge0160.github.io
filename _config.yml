@@ -1,0 +1,22 @@
+title:              Amanda George
+email:              ageorge0160@gmail.com
+description:        Developer | Photographer | Maker
+author:             Amanda George
+baseurl:            "/"
+url:                "https://amandalynngeorge.com"
+logo: "/img/about.jpg"
+
+theme: "jekyll-theme-clean-blog"
+
+# Social Profile
+github_username:    ageorge0160
+linkedin_username:  amandalynngeorge
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
