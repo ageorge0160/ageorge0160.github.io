@@ -3,3 +3,42 @@
   align-items: center;
   justify-content: center;
 }
+
+.img-thumbnail {
+  max-width: 20em;
+}
+
+.grid-container {
+  display: grid;
+  align-items: center;
+  grid-column-gap: 30px;
+  grid-template-columns: 20em auto;
+}
+
+.grid-item img {
+  max-width: 20em;
+}
+
+.post-title {
+  color: #104b5b;
+}
+
+.post-subtitle {
+  color: gray;
+  font-family: serif;
+  font-weight: normal;
+}
+.container {
+  align-items: center;
+  justify-content: center;
+}
+
+.post-img {
+  max-width: 30em;
+  display: block;
+  margin: auto;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  border: 1px solid gray;
+  align-items: center;
+}
