@@ -42,3 +42,7 @@
   border: 1px solid gray;
   align-items: center;
 }
+
+.home-img {
+  max-width: 40em;
+}
