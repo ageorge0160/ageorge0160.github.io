@@ -7,7 +7,7 @@ baseurl:            "/"
 url:                "https://amandalynngeorge.com"
 logo: "/img/about.jpg"
 
-remote_theme: "BlackrockDigital/jekyll-theme-clean-blog"
+remote_theme: "BlackrockDigital/startbootstrap-clean-blog-jekyll"
 
 # Social Profile
 github_username:    ageorge0160
