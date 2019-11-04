@@ -1,7 +1,5 @@
-.row {
+.banner {
   height: 35em;
-}
-
-.page-heading {
   align-items: center;
+  justify-content: center;
 }
