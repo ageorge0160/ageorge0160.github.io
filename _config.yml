@@ -2,6 +2,7 @@ title:              Amanda George
 email:              ageorge0160@gmail.com
 description:        Developer | Photographer | Maker
 author:             Amanda George
+copyright:          amandalynngeorge
 baseurl:            "/"
 url:                "https://amandalynngeorge.com"
 logo: "/img/about.jpg"
@@ -11,6 +12,7 @@ theme: "jekyll-theme-clean-blog"
 # Social Profile
 github_username:    ageorge0160
 linkedin_username:  amandalynngeorge
+youpic_username: amandalynngeorge
 
 # Build settings
 markdown:           kramdown
