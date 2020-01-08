@@ -12,7 +12,6 @@ remote_theme: "BlackrockDigital/startbootstrap-clean-blog-jekyll"
 # Social Profile
 github_username:    ageorge0160
 linkedin_username:  amandalynngeorge
-youpic_username: amandalynngeorge
 
 # Build settings
 markdown:           kramdown
